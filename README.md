@@ -1,5 +1,5 @@
 # ml-ds-masterclass
-Projects related to Python for Machine Learning & Data Science Masterclass 
+Projects for the Python for Machine Learning and Data Science Masterclass. 
 
 ### [Cleaning Ames_Housing_Data dataset](cleaning%20Ames_Housing_Data%20dataset.ipynb) 
 

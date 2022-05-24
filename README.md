@@ -13,3 +13,6 @@ Creation of different regression models for the Ames_Housing_Data dataset: basic
 
 Creation of a logistic regression model for the HeartDisease dataset. Performance analysis using confusion matrix and classification report (precision, recall, f1-score and support) and visualizations of precision recall and ROC curves.
 
+### [K Nearest Neighbors Project](k-nearest%20neighbors.ipynb) 
+
+Creation of a KNN model for the Sonar dataset using Pipeline and GridSearchCV for finding the best K hyperparameter. Performance analysis using confusion matrix and classification report.

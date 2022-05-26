@@ -21,11 +21,16 @@ Creation of a KNN model for the Sonar dataset using Pipeline and GridSearchCV fo
 
 Creation of a SVM model for the Wine fraud dataset using GridSearchCV for finding the best C and gamma hyperparameters. Performance analysis using confusion matrix and classification report.
 
-### [Tree Models Project](tree_models.ipynb) 
+### [Tree Models Project](tree%20models.ipynb) 
 
 Creation of different tree-based models for the Telco Customer Churn dataset: decision trees, random forest and adaboost. Performance analysis using confusion matrix and classification report.
 
 
-### [Text classification Project](text_classification.ipynb) 
+### [Text Classification Project](text%20classification.ipynb) 
 
 Creation of a linear SVC model for the Movie Reviews dataset, using bag of words and TF-IDF and checking their performance.
+
+
+### [K-Means Clustering Project](k%20means.ipynb) 
+
+Creation of a K-Means model for the CIA Country Facts dataset to understand the similarity between countries and regions of the world.

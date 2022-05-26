@@ -24,3 +24,8 @@ Creation of a SVM model for the Wine fraud dataset using GridSearchCV for findin
 ### [Tree Models Project](tree_models.ipynb) 
 
 Creation of different tree-based models for the Telco Customer Churn dataset: decision trees, random forest and adaboost. Performance analysis using confusion matrix and classification report.
+
+
+### [Text classification Project](text_classification.ipynb) 
+
+Creation of a linear SVC model for the Movie Reviews dataset, using bag of words and TF-IDF and checking their performance.

@@ -34,3 +34,13 @@ Creation of a linear SVC model for the Movie Reviews dataset, using bag of words
 ### [K-Means Clustering Project](k%20means.ipynb) 
 
 Creation of a K-Means model for the CIA Country Facts dataset to understand the similarity between countries and regions of the world.
+
+### [Color Quantization Test](color%20quantization%20with%20k-means.ipynb) 
+
+Little test to try K-Means for color quantization.
+
+### [DBSCAN Project](dbscan.ipynb) 
+
+Creation of a DBSCAN model for the  Wholesale customers dataset and visualization of results.
+
+

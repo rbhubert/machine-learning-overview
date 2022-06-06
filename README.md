@@ -1,4 +1,4 @@
-# ml-ds-masterclass
+# machine-learning-overview
 Projects for the course "2022 Python for Machine Learning and Data Science Masterclass". 
 
 ## Data exploration
